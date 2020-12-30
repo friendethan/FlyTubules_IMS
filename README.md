@@ -1,4 +1,4 @@
-# Characterizing Microdissected Fly Tubule Phospholipids 
+# Characterizing Microdissected Fly Tubule Phospholipid IMS Signals
 This is an archive for the R codes used to conduct unsupervised statistical analysis for microdissected fly tubule phospholipids as well as fly sections shown in the publication listed below.
 
 ## Data Format
