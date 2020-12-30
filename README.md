@@ -2,7 +2,7 @@
 This is an archive for the R codes used to conduct unsupervised statistical analysis for microdissected fly tubule phospholipids as well as fly sections shown in the publication listed below.
 
 ## Data Format
-The data analyzed are obtained from the Bruker Ultraflex system with flexControl 3.4 and flexImaging 4.0.  
+The data analyzed are obtained from the Bruker Ultraflex system with flexControl 3.4 and flexImaging 4.0 in the condensed .d format for imaging MS data and fid for MS data.
 
 ## Files
 
