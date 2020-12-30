@@ -6,9 +6,11 @@ The data analyzed are obtained from the Bruker Ultraflex system with flexControl
 
 ## Files
 
-* statisticalAnalysis.R contains the script for statistical analysis
-* visualization.R contains the script for generating the figures for the publication
-* functions.R contains functions Ethan wrote for this project
+* statisticalAnalysis_tubules.R contains the script for pre-processing and statistical analysis of micordissected fly tubules
+* visualization_tubules.R contains the script for generating the figures for the microdissected fly tubules
+* statisticalAnalysis_sections.R contains the script for pre-processing and statistical analysis of fly sections
+* visualization_sections.R contains the script for generating the figures for the fly sections
+* functions.R contains functions Ethan Yang used to conduct the necessary analyses for this publication
 
 ## Reference Publication
 **Yang E**, Gamberi C, Chaurand P. Mapping the fly Malpighian tubule lipidome by imaging mass spectrometry. *J Mass Spectrom. 2019 Jun;54(6):557-566*. [doi:10.1002/jms.4366](https://pubmed.ncbi.nlm.nih.gov/31410898/). PMID: 31038251.
