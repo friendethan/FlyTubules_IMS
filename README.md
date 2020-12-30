@@ -9,7 +9,7 @@ The data analyzed are obtained from the Bruker Ultraflex system with flexControl
 * statisticalAnalysis_tubules.R contains the script for pre-processing and statistical analysis of micordissected fly tubules
 * visualization_tubules.R contains the script for generating the figures for the microdissected fly tubules
 * statisticalAnalysis_sections.R contains the script for pre-processing and statistical analysis of fly sections
-* visualization_sections.R contains the script for generating the figures for the fly sections
+* visualization_sections.R contains the script for generating the figures for the fly sections *under progress*
 * functions.R contains functions Ethan Yang used to conduct the necessary analyses for this publication
 
 ## Reference Publication
