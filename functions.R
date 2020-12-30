@@ -15,7 +15,7 @@ multiIMSred=function(cardinaldatalist,filenamelist){
   }
   return(cardinaldatalist_rd)}
 
-#split samples from one imzml file into multiple samples
+#split samples from one imzml file into multiple samples, written by Nathan Heath Patterson
 #will only work with Cardinal 1.2.1
 sampleROIs<-function(cardinaldata, XMLdata="myxml.xml",width=3){
   require(XML)
