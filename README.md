@@ -7,7 +7,7 @@ The data analyzed are obtained from the Bruker Ultraflex system with flexControl
 ## Files
 
 * statisticalAnalysis.R contains the script for statistical analysis
-* visuazliation.R contains the script for generating the figures for the publication
+* visualization.R contains the script for generating the figures for the publication
 * functions.R contains functions Ethan wrote for this project
 
 ## Reference Publication
