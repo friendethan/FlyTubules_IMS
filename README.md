@@ -34,7 +34,7 @@ Please reference the LICENSE document for details.
 R Studio: Version Unknown  
 R version 3.4.4 (2018-03-15)  
 Platform: x86_64-w64-mingw32/x64 (64-bit)  
-Running under: Windows 10 x64 (build 18363)  
+Running under: Windows 7 (Build unknown) 
 
 attached base packages:  
 
